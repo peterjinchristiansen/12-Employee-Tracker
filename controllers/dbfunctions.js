@@ -100,7 +100,7 @@ const createEmployee = async (first_name, last_name, job, manager) => {
             job_id,
             manager_id
         })
-        console.log(`${first_name} ${last_name} was added to Jobs`)
+        console.log(`${first_name} ${last_name} was added to Employees`)
     } catch (error) {
         console.log('ERROR => ', error.message)
     }
