@@ -37,7 +37,7 @@ To install your dependencies, you will be using the following command:
 
 ## Usage
             
-'seeds.sql' exists to help you pre-populate your database. You will need to create the Schema before initializing, but the tables will be synced automatically.
+'seeds.sql' exists to help you pre-populate your database
         
 ---
         
